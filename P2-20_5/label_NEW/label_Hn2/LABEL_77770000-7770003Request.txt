@@ -1,0 +1,12 @@
+77770000-7770003Request>7>BS>Hi Team,
+77770000-7770003Request>17>BB>Test to email signatures shared by client.
+77770000-7770003Request>27>CC>Best regards,
+77770000-7770003Request>57>NN>Badri Mohapatra
+77770000-7770003Request>71>ND>Sales   Marketing Director
+77770000-7770003Request>82>NM>CodeTwo
+77770000-7770003Request>93>NM>16 Freedom St, Deer Hill
+77770000-7770003Request>104>NM>58-500, Poland
+77770000-7770003Request>115>NP>phone:  1 112 345 6789
+77770000-7770003Request>126>NP>mobile:  1 112 345 6789
+77770000-7770003Request>137>NE>john.doe@codetwo.com
+77770000-7770003Request>151>NM>www.codetwo.com
