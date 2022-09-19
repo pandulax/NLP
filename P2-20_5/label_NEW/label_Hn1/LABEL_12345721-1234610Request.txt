@@ -1,0 +1,45 @@
+12345721-1234610Request>4>BM>From:
+12345721-1234610Request>8>BM>Joseph Rodrigo
+12345721-1234610Request>10>BM>JRodrigo@virtusa.com
+12345721-1234610Request>20>BM>Sent:
+12345721-1234610Request>24>BM>Thursday, January 23, 2020 6:20 PM
+12345721-1234610Request>27>BM>To:
+12345721-1234610Request>29>BM>Chathurika Nivanthi
+12345721-1234610Request>31>BM>cnivanthi@virtusa.com
+12345721-1234610Request>33>BM>; Eshan Maduranga
+12345721-1234610Request>35>BM>emaduranga@virtusa.com
+12345721-1234610Request>37>BM>; Kangaroo Cabs
+12345721-1234610Request>39>BM>bookings@2588588.com
+12345721-1234610Request>44>BM>Cc:
+12345721-1234610Request>46>BM>Dinusha Samaratunga
+12345721-1234610Request>48>BM>dsamaratunga@virtusa.com
+12345721-1234610Request>50>BM>; Mathangi Karunakaran
+12345721-1234610Request>52>BM>mkarunakaran@virtusa.com
+12345721-1234610Request>54>BM>; Heshan Kankanamge
+12345721-1234610Request>56>BM>hmkankanamge@virtusa.com
+12345721-1234610Request>58>BM>; Ravishka Hewasiliyange
+12345721-1234610Request>60>BM>hravishka@virtusa.com
+12345721-1234610Request>62>BM>; Limesha K H
+12345721-1234610Request>64>BM>lchathurika@virtusa.com
+12345721-1234610Request>66>BM>; Duminda Jayathilake
+12345721-1234610Request>68>BM>ddjayathilake@virtusa.com
+12345721-1234610Request>70>BM>; Lasitha Kodikara
+12345721-1234610Request>72>BM>lakodikara@virtusa.com
+12345721-1234610Request>77>BM>Subject:
+12345721-1234610Request>79>BM>RE: Transport Request 23-January-2020
+12345721-1234610Request>93>BS>Kangaroo cabs
+12345721-1234610Request>107>BB>Please arrange transport. mail trail
+12345721-1234610Request>121>CC>Regards
+12345721-1234610Request>135>NN>Joseph Rodrigo
+12345721-1234610Request>152>BM>From:
+12345721-1234610Request>156>BM>Chathurika Nivanthi
+12345721-1234610Request>159>BM>Sent:
+12345721-1234610Request>161>BM>Friday, January 24, 2020 2:53 PM
+12345721-1234610Request>164>BM>To:
+12345721-1234610Request>166>BM>Chathurika Nivanthi  cnivanthi@virtusa.com
+12345721-1234610Request>169>BM>Subject:
+12345721-1234610Request>171>BM>Email with top TAs
+12345721-1234610Request>190>BS>Kangaroo cabs
+12345721-1234610Request>204>BB>Please arrange transport.
+12345721-1234610Request>218>CC>Regards
+12345721-1234610Request>232>NN>Joseph Rodrigo

@@ -1,0 +1,14 @@
+12345703-1234592Request>7>BS>Hi Team,
+12345703-1234592Request>17>BB>Test to email signatures shared by client.
+12345703-1234592Request>49>NN>Badri Mohapatra
+12345703-1234592Request>54>ND>Sales   Marketing Director
+12345703-1234592Request>60>NM>| CodeTwo
+12345703-1234592Request>74>NM>m:
+12345703-1234592Request>78>NP>1 112 345 6789
+12345703-1234592Request>83>NM>p:
+12345703-1234592Request>87>NP>1 112 345 6789
+12345703-1234592Request>92>NM>e:
+12345703-1234592Request>98>NE>john.doe@codetwo.com
+12345703-1234592Request>110>NM>16 Freedom St, Deer Hill
+12345703-1234592Request>112>NM>58-500, Poland
+12345703-1234592Request>124>NM>www.codetwo.com

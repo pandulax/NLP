@@ -1,0 +1,28 @@
+12345731-1234620Request>2>BS>Hi Itzel,
+12345731-1234620Request>12>BB>Attached are the API / UI test cases for Email as Chat using AI/ML.
+12345731-1234620Request>17>BB>Following approach was discussed for reading the chat bubble content –
+12345731-1234620Request>24>BM>1.
+12345731-1234620Request>30>BB>Chat bubble initially will display only the main mail body content (as discussed)
+12345731-1234620Request>37>BM>2.
+12345731-1234620Request>43>BB>If long text, images or tables are present in the chat bubble ,then providing facility to users for expanding the bubble and viewing the content
+12345731-1234620Request>50>BM>3.
+12345731-1234620Request>56>BB>If still  after expansion the complete mail content is not viewable then vertical and horizontal scroll bar will be provided to see the whole content.
+12345731-1234620Request>66>BB>Please confirm if the above approach is Ok to go ahead with.
+12345731-1234620Request>76>BB>PFA consolidated API and UI test cases.
+12345731-1234620Request>81>BB>Kindly review it and provide signoff for the same if no comments.
+12345731-1234620Request>96>CC>Thanks   Regards
+12345731-1234620Request>101>NN>Rupali T
+12345731-1234620Request>107>ND>The Data Protection Officer
+12345731-1234620Request>109>NM>The Hongkong and Shanghai Banking Corporation Limited
+12345731-1234620Request>111>NM>Level 13  14
+12345731-1234620Request>113>NM>1 Queen's Road Central
+12345731-1234620Request>115>NM>Hong Kong SAR
+12345731-1234620Request>117>NP>Telephone: 28998777
+12345731-1234620Request>119>NP>Facsimile: (852) 2868 0065
+12345731-1234620Request>124>DD>Notice to Singapore Customers and Others relating to the Singapore Personal Data Protection Act
+12345731-1234620Request>129>DM>The Personal Data Protection Act (
+12345731-1234620Request>131>DM>PDPA
+12345731-1234620Request>133>DM>) establishes a data protection law in Singapore that governs the collection, use and disclosure of personal data. Please click
+12345731-1234620Request>137>DM>here
+12345731-1234620Request>141>DM>for information on how we manage your personal data in accordance with the PDPA.
+12345731-1234620Request>144>DD>IMPORTANT: By accessing this web site and any of its pages you are agreeing to the terms set out above.

@@ -1,0 +1,11 @@
+12345697-1234586Request>12>BS>Hi Team,
+12345697-1234586Request>22>BB>Test to email signatures shared by client.
+12345697-1234586Request>52>NN>Badri Mohapatra
+12345697-1234586Request>66>ND>Sales   Marketing Director
+12345697-1234586Request>77>NM>CodeTwo
+12345697-1234586Request>88>NM>16 Freedom St, Deer Hill
+12345697-1234586Request>99>NM>58-500, Poland
+12345697-1234586Request>110>NP>phone:  1 112 345 6789
+12345697-1234586Request>121>NP>mobile:  1 112 345 6789
+12345697-1234586Request>133>NE>john.doe@codetwo.com
+12345697-1234586Request>148>NM>www.codetwo.com

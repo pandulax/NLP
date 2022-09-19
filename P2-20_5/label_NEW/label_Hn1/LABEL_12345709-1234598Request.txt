@@ -1,0 +1,10 @@
+12345709-1234598Request>12>BS>Hi Team,
+12345709-1234598Request>22>BB>Test to email signatures shared by client.
+12345709-1234598Request>42>NN>Badri Prasad Mohapatra
+12345709-1234598Request>56>NM>Sales   Marketing Director | CodeTwo
+12345709-1234598Request>67>NP>m:  91 1234 567 890
+12345709-1234598Request>69>NP>t:  91 1234 567 890
+12345709-1234598Request>71>NE>e: john.doe@codetwo.com
+12345709-1234598Request>82>NM>16 Freedom St, Deer Hill
+12345709-1234598Request>84>NM>58-500, Poland
+12345709-1234598Request>92>NM>www.codetwo.com

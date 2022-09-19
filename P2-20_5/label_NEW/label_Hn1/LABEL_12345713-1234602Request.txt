@@ -1,0 +1,12 @@
+12345713-1234602Request>12>BS>Hi Team,
+12345713-1234602Request>22>BB>Test to email signatures shared by client.
+12345713-1234602Request>50>NN>Badri Prasad Mohapatra
+12345713-1234602Request>57>NM>Sales   Marketing Director
+12345713-1234602Request>63>NM>• CodeTwo
+12345713-1234602Request>76>NP>mobile:  91 1234567890 • phone:  91 12345 67890
+12345713-1234602Request>78>NM>email:
+12345713-1234602Request>80>NE>john.doe@codetwo.com
+12345713-1234602Request>83>NM>16 Freedom St, Deer Hill
+12345713-1234602Request>85>NM>58-500, Poland
+12345713-1234602Request>98>NM>www.codetwo.com
+12345713-1234602Request>166>DD>The content of this email is confidential and intended for the recipient specified in message only. It is strictly forbidden to share any part of this message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its deletion, so that we can ensure such a mistake does not occur in the future.

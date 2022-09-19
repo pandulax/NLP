@@ -1,0 +1,12 @@
+12345701-1234590Request>12>BS>Hi Team,
+12345701-1234590Request>22>BB>Test to email signatures shared by client.
+12345701-1234590Request>34>NN>Badri Mohapatra
+12345701-1234590Request>41>ND>Sales   Marketing Director
+12345701-1234590Request>45>NM>CodeTwo
+12345701-1234590Request>50>NM>16 Freedom St, Deer Hill
+12345701-1234590Request>52>NM>58-500, Poland
+12345701-1234590Request>54>NP>t:  1 112 345 6789
+12345701-1234590Request>56>NP>m:  1 112 345 6789
+12345701-1234590Request>58>NE>e: john.doe@codetwo.com
+12345701-1234590Request>64>NM>www.codetwo.com
+12345701-1234590Request>118>DD>The content of this email is confidential and intended for the recipient specified in message only. It is strictly forbidden to share any part of this message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its deletion, so that we can ensure such a mistake does not occur in the future.
