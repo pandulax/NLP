@@ -1,0 +1,9 @@
+11188900-2285101Request>25>BS>Dear All,
+11188900-2285101Request>35>BB>We are pleased to inform you, that your requested item
+11188900-2285101Request>37>BM>RITM0549638
+11188900-2285101Request>39>BB>has been commented, the details of which are given below.
+11188900-2285101Request>50>BM>Summary:
+11188900-2285101Request>52>BB>Request for a specific software to be installed
+11188900-2285101Request>67>NT>Mobile:0716666666
+11188900-2285101Request>79>NE>Email:abc@gmail.com
+11188900-2285101Request>102>DD>This message is sent to you because your email address is on our subscribers list. If you are not interested in receiving more emails like this one, just hit Unsubscribe.

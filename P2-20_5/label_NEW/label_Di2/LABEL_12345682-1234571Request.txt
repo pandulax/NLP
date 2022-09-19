@@ -1,0 +1,16 @@
+12345682-1234571Request>7>BS>Hi Team,
+12345682-1234571Request>17>BB>Test to email signatures shared by client.
+12345682-1234571Request>37>CC>Regards,
+12345682-1234571Request>68>NN>Badri Prasad Mohapatra
+12345682-1234571Request>82>ND>SR. VICE PRESIDENT - TECHNOLOGY
+12345682-1234571Request>98>NM>Phone:
+12345682-1234571Request>108>NT>1 112 345 6789
+12345682-1234571Request>122>NM>Mobile:
+12345682-1234571Request>132>NT>1 112 345 6789
+12345682-1234571Request>146>NM>Email:
+12345682-1234571Request>156>NE>john.doe@codetwo.com
+12345682-1234571Request>170>NM>Website:
+12345682-1234571Request>181>NE>www.codetwo.com
+12345682-1234571Request>196>NM>Address:
+12345682-1234571Request>206>NM>CodeTwo, 16 Freedom St, Deer Hill, 58-500, Poland
+12345682-1234571Request>266>ND>The content of this email is confidential and intended for the recipient specified in message only. It is strictly forbidden to share any part of this message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its deletion, so that we can ensure such a mistake does not occur in the future.

@@ -1,0 +1,10 @@
+12345688-1234577Request>12>BS>Hi Team,
+12345688-1234577Request>22>BB>Test to email signatures shared by client.
+12345688-1234577Request>32>CC>Regards,
+12345688-1234577Request>47>NN>Badri Prasad Mohapatra
+12345688-1234577Request>61>ND>Chief Peoples Officer - Operations
+12345688-1234577Request>101>NT>T:  1 112 345 6789
+12345688-1234577Request>114>NT>M:  1 112 345 6789
+12345688-1234577Request>127>NE>john.doe@codetwo.com -
+12345688-1234577Request>131>NE>www.codetwo.com
+12345688-1234577Request>145>NM>16 Freedom St, Deer Hill 58-500, Poland

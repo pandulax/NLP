@@ -1,0 +1,14 @@
+11188901-2285102Request>3>BS>Dear Chathurika Nivanthi,
+11188901-2285102Request>15>BB>Please be informed, that the priority of
+11188901-2285102Request>17>BM>INC0644357
+11188901-2285102Request>19>BB>has been updated, the details of which are given below. This is just for your Information while we work to resolve the issue.
+11188901-2285102Request>32>BM>Summary:
+11188901-2285102Request>36>BB>Your machine CMDCNIVANTHI with serial number PC0SD1BP is found non-compliant
+11188901-2285102Request>44>BM>Incident Number:
+11188901-2285102Request>48>BM>INC0644357
+11188901-2285102Request>56>BM>Priority:
+11188901-2285102Request>60>BM>3 - Moderate
+11188901-2285102Request>68>BM>Created:
+11188901-2285102Request>72>BM>17-Jan-2020 07:45:45 IST
+11188901-2285102Request>79>DD>This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed.
+11188901-2285102Request>86>DD>This message is sent to you because your email address is on our subscribers list. If you are not interested in receiving more emails like this one, just hit Unsubscribe.

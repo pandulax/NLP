@@ -1,0 +1,37 @@
+11189082-2285081Request>3>BS>Hi Team,
+11189082-2285081Request>17>BB>Please provide an ETA for the below aging deliveries?
+11189082-2285081Request>24>BB>We get the attachment info in a separate node as attachments, there on if user clicks the download icon, it can download the attachment.
+11189082-2285081Request>52>CC>Regards,
+11189082-2285081Request>59>NN>Abey Kurian
+11189082-2285081Request>66>NM>Group:
+11189082-2285081Request>69>NT>+12126233034
+11189082-2285081Request>81>NM>Effective January 1, 2018
+11189082-2285081Request>85>NM>, please direct all
+11189082-2285081Request>87>NM>trade settlement
+11189082-2285081Request>89>NM>(post trade date confirmation) inquiries to
+11189082-2285081Request>93>NE>fi.trade.support@jpmorgan.com
+11189082-2285081Request>97>NM>.
+11189082-2285081Request>104>NM>All
+11189082-2285081Request>106>NM>trade confirmation
+11189082-2285081Request>108>NM>inquiries can be sent to the appropriate team as shown below:
+11189082-2285081Request>115>NM>AK2019
+11189082-2285081Request>123>NM>High Yield –
+11189082-2285081Request>129>NE>GFIMO.HY@JPMorgan.com
+11189082-2285081Request>143>NM>Municipals –
+11189082-2285081Request>149>NE>GFIMO.Muni@JPMorgan.com
+11189082-2285081Request>163>NM>EMD –
+11189082-2285081Request>169>NE>EMD.Trade.Support@JPMorgan.com
+11189082-2285081Request>183>NM>MMKT Inst –
+11189082-2285081Request>189>NE>ST.Trade.Support.NY@JPMorgan.com
+11189082-2285081Request>203>NM>New York FI –
+11189082-2285081Request>209>NE>GFIMO_NY@JPMorgan.com
+11189082-2285081Request>223>NM>Columbus FI –
+11189082-2285081Request>229>NE>GFIMO.IGTaxable@JPMorgan.com
+11189082-2285081Request>243>NM>Short Duration –
+11189082-2285081Request>249>NE>MR.MiddleOffice@JPMorgan.com
+11189082-2285081Request>263>NM>Equity –
+11189082-2285081Request>269>NE>Equity.Trade.Support.NY@JPMorgan.com
+11189082-2285081Request>309>NM>Failure to action as outlined could result in delays in response time.
+11189082-2285081Request>366>DD>This message is confidential and subject to terms at:
+11189082-2285081Request>368>DM>https://www.jpmorgan.com/emaildisclaimer
+11189082-2285081Request>370>DD>including on confidential, privileged or legal entity information, viruses and monitoring of electronic messages. If you are not the intended recipient, please delete this message and notify the sender immediately. Any unauthorized use is strictly prohibited.

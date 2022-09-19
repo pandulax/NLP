@@ -1,0 +1,13 @@
+12345692-1234581Request>12>BS>Hi Team,
+12345692-1234581Request>22>BB>Test to email signatures shared by client.
+12345692-1234581Request>32>CC>Thank you,
+12345692-1234581Request>61>NN>Badri Mohapatra
+12345692-1234581Request>78>ND>Chief HR Director - India
+12345692-1234581Request>95>NM>T:
+12345692-1234581Request>99>NT>1 112 345 6789 |
+12345692-1234581Request>101>NM>M:
+12345692-1234581Request>103>NT>1 112 345 6789
+12345692-1234581Request>117>NM>E:
+12345692-1234581Request>121>NE>john.doe@codetwo.com |
+12345692-1234581Request>125>NE>www.codetwo.com
+12345692-1234581Request>139>NM>16 Freedom St, Deer Hill | 58-500, Poland

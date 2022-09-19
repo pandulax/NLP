@@ -1,0 +1,15 @@
+11189075-2285074Request>8>BS>MO,
+11189075-2285074Request>22>BB>We get the attachment info in a separate node as attachments, there on if user clicks the download icon, it can download the attachment.
+11189075-2285074Request>36>CC>Thanks,
+11189075-2285074Request>73>NN>Danna Schnittert
+11189075-2285074Request>81>NM>T
+11189075-2285074Request>86>NM>:
+11189075-2285074Request>90>NT>617-954-5133
+11189075-2285074Request>94>NM>E
+11189075-2285074Request>99>NM>:
+11189075-2285074Request>107>NE>DSchnittert@mfs.com
+11189075-2285074Request>113>NM>MFS Investment Management
+11189075-2285074Request>115>NM>111 Huntington Avenue, Boston, MA 02199-7632
+11189075-2285074Request>137>DM>MFS Email system made the following annotation
+11189075-2285074Request>139>DM>---------------------------------------------------------------------------------------------------------------------------------------
+11189075-2285074Request>141>DD>This email communication and any attachments may contain proprietary, confidential, or privileged information. If you are not the intended recipient, you are hereby notified that you have received this email in error and that any review, disclosure, dissemination, distribution or copying of it or its contents is prohibited. The sender does not waive confidentiality or any privilege by mistransmission. If you have received this email in error, please notify the sender immediately, delete this email, and destroy all copies and any attachments.

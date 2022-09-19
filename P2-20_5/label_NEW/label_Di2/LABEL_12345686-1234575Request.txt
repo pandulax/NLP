@@ -1,0 +1,13 @@
+12345686-1234575Request>12>BS>Hi Team,
+12345686-1234575Request>22>BB>Test to email signatures shared by client.
+12345686-1234575Request>37>CC>Thanks,
+12345686-1234575Request>52>NN>Badri Prasad Mohapatra
+12345686-1234575Request>57>ND>Director - Technology
+12345686-1234575Request>95>NM>CodeTwo
+12345686-1234575Request>107>NM>16 Freedom St, Deer Hill
+12345686-1234575Request>118>NM>58-500, Poland
+12345686-1234575Request>129>NT>t:  1 112 345 6789
+12345686-1234575Request>140>NT>m:  1 112 345 6789
+12345686-1234575Request>151>NE>e: john.doe@codetwo.com
+12345686-1234575Request>175>NE>www.codetwo.com
+12345686-1234575Request>267>DD>The content of this email is confidential and intended for the recipient specified in message only. It is strictly forbidden to share any part of this message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its deletion, so that we can ensure such a mistake does not occur in the future.

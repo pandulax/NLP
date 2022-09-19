@@ -1,0 +1,30 @@
+11189036-2285012Request>2>BS>Hi Citi Team,
+11189036-2285012Request>12>BB>Please bill confirms for the below settling 12/23. Without a confirm the trades will fail.
+11189036-2285012Request>27>BM>Message Type
+11189036-2285012Request>38>BM>Requested Action
+11189036-2285012Request>49>BM>Executing Broker Name
+11189036-2285012Request>60>BM>Security Identifier(M)
+11189036-2285012Request>71>BB>Agent Internal Account Number(O)
+11189036-2285012Request>82>BB>Institution Internal Account Number(O)
+11189036-2285012Request>93>BM>Net Amount(M)
+11189036-2285012Request>104>BM>Trade Date(O)
+11189036-2285012Request>115>BM>Settlement Date(M)
+11189036-2285012Request>126>BM>Side(M)
+11189036-2285012Request>137>BM>Share Quantity(M)
+11189036-2285012Request>148>BM>Price Per Share(O)
+11189036-2285012Request>159>BM>Accrued Interest(O)
+11189036-2285012Request>170>BM>Security Description
+11189036-2285012Request>181>BM>Security Type(O)
+11189036-2285012Request>192>BM>Settlement Location(M)
+11189036-2285012Request>203>BM>Clearing Broker Number(M)
+11189036-2285012Request>229>BB>Thanks.
+11189036-2285012Request>241>CC>Regards,
+11189036-2285012Request>256>NN>Chamathka Kulatunge
+11189036-2285012Request>273>NM>Virtusa (Pvt) Ltd.
+11189036-2285012Request>280>NM>No: 752, Dr. Danister De Silva Mw,
+11189036-2285012Request>287>NM>Dematagoda, Colombo 09, Sri Lanka.
+11189036-2285012Request>297>NM>Phone:
+11189036-2285012Request>301>NT>+94 114 605500
+11189036-2285012Request>308>NM>Ext:
+11189036-2285012Request>312>NM>2736
+11189036-2285012Request>384>>This message is for the named person(s) use only and may contain confidential or legally privileged information. No confidentiality or privilege is waived or lost by any mistransmission. If you receive this message in error, please immediately delete it and all copies of it from your system, destroy any hard copies of it and notify the sender. You must not, directly or indirectly use or disclose any part of this message if you are not the intended recipient. PPM America, Inc., PPM Finance, Inc. and their subsidiaries and affiliates (collectively, PPM America or the Company) each reserve the right to monitor all e-mail communications through its networks and such communications may be retained and/or reviewed. Any views expressed in this message are those of the sender, except where the message states otherwise and the sender is authorized to state them to be the views of any such entity. E-mail messages from PPM America employees and contractors are not binding contracts unless accompanied by hard-copy documents that have been executed by an approved signatory of the Company. PPM America does not guarantee that the integrity of this message has been maintained or that this message is free from viruses, interceptions or interference. The Company does not accept any liability for any errors or omissions arising as a result of this transmission.
