@@ -1,0 +1,18 @@
+11111112-2222228Request>2>BS>Hello DTC,
+11111112-2222228Request>12>BB>Please advise on the 1st trade.
+11111112-2222228Request>22>BS>Hello Ashiq,
+11111112-2222228Request>32>BB>Please advise what market are you looking to settle the second trade.
+11111112-2222228Request>43>CC>Thanks   regards,
+11111112-2222228Request>50>NN>Olivia L. Pagalilauan
+11111112-2222228Request>57>NM>|
+11111112-2222228Request>64>NM>International Settlements   Client Service
+11111112-2222228Request>70>NM>|
+11111112-2222228Request>75>NP>T: 716.730.8151
+11111112-2222228Request>81>NM>|
+11111112-2222228Request>86>NM>E: (INTL)
+11111112-2222228Request>91>NE>GlobalClientService@citi.com
+11111112-2222228Request>99>NM>|
+11111112-2222228Request>103>NM>Escalation:
+11111112-2222228Request>108>NE>Matthew.Licata@citi.com
+11111112-2222228Request>118>DS>Citi LifeCycle – Get your Data on Demand
+11111112-2222228Request>136>DD>“This e-mail message is sent to you by a member of Citigroup. It may contain legally privileged, confidential or proprietary information. If you are not the intended recipient, please notify the sender immediately, delete this message from your system, and do not copy, transfer or disclose this message or its contents to any third party. There is no guarantee that e-mail transmissions are secure or error-free as such transmissions can be intercepted, corrupted, lost or destroyed, or can arrive late or incomplete, or can contain viruses. The sender does not accept liability for any errors or omissions in the contents, or delay in receipt, of this e-mail message or its attachments which arise in the course of its transmission or receipt, and does not guarantee that the message contains no viruses. The sender reserves the right to monitor and record all e-mail messages, whether received or sent by the sender of this email message.”

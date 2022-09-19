@@ -1,0 +1,14 @@
+11111107-2222218Request>3>BS>Hi
+11111107-2222218Request>17>CC>Thanks,
+11111107-2222218Request>54>NN>Danna Schnittert
+11111107-2222218Request>62>NE>T
+11111107-2222218Request>67>NE>:
+11111107-2222218Request>71>NP>617-954-5133
+11111107-2222218Request>75>NE>E
+11111107-2222218Request>80>NE>:
+11111107-2222218Request>88>NE>DSchnittert@mfs.com
+11111107-2222218Request>94>NE>MFS Investment Management
+11111107-2222218Request>96>NE>111 Huntington Avenue, Boston, MA 02199-7632
+11111107-2222218Request>118>NE>MFS Email system made the following annotation
+11111107-2222218Request>120>DM>----------------------------------------------------------------------------------------
+11111107-2222218Request>122>DD>This email communication and any attachments may contain proprietary, confidential, or privileged information. If you are not the intended recipient, you are hereby notified that you have received this email in error and that any review, disclosure, dissemination, distribution or copying of it or its contents is prohibited. The sender does not waive confidentiality or any privilege by mistransmission. If you have received this email in error, please notify the sender immediately, delete this email, and destroy all copies and any attachments.

@@ -1,0 +1,30 @@
+11111112-2222229Request>2>BS>HI Team
+11111112-2222229Request>7>BB>Kindly let us know why the sell trade is being DK'd
+11111112-2222229Request>12>BB>Please confirm why the buy trade is failing and if you are short to deliver.
+11111112-2222229Request>24>CC>Thanks   Regards
+11111112-2222229Request>36>NN>Ashiq Ali
+11111112-2222229Request>46>ND>Senior Analyst | Emerging Market Settlements | IMS Trade Management
+11111112-2222229Request>53>NM>State Street HCL India Private Limited
+11111112-2222229Request>65>NM>Module - 204 - 2nd floor | Tidel Park Coimbatore |
+11111112-2222229Request>70>NM>Civil Aerodrame post, Coimbatore - 641 014, Tamil Nadu, India.
+11111112-2222229Request>75>NP>Group Line:+1 949 932 1889 | Direct Line:+1 949 932 1889 Voip:9110647 MOB: +917200544880
+11111112-2222229Request>80>NM>Email Address:
+11111112-2222229Request>83>NE>ABasheer@StateStreet.com
+11111112-2222229Request>95>NM>US Treasury
+11111112-2222229Request>105>NE>UST.IMS@statestreet.com
+11111112-2222229Request>120>NM>US Fixed Income (Non UST)
+11111112-2222229Request>130>NE>Corp.IMS@statestreet.com
+11111112-2222229Request>145>NM>International Fixed Income (Non US)
+11111112-2222229Request>156>NE>Global.IMS@statestreet.com
+11111112-2222229Request>171>NM>Equity
+11111112-2222229Request>181>NE>Equity.ims@statestreet.com
+11111112-2222229Request>196>NM>Emerging Markets
+11111112-2222229Request>206>NE>IMSW-IMSEmergingMarkets@Statestreet.com
+11111112-2222229Request>221>NM>EMEA Coverage
+11111112-2222229Request>231>NE>IMSMunichSettlements_IM@StateStreet.com
+11111112-2222229Request>246>NM>APAC Coverage
+11111112-2222229Request>256>NE>svc_im_pacrimops2@StateStreet.com
+11111112-2222229Request>270>NM>PIMCO Emerging Markets
+11111112-2222229Request>276>NE>IMSW-IMSEmergingMarkets@Statestreet.com
+11111112-2222229Request>284>DD>[mref:[:*;x916A6Z4*:x31]]The information contained in this email and any attachments have been classified as limited access and/or privileged State Street information/communication and is intended solely for the use of the named addressee(s). If you are not an intended recipient or a person responsible for delivery to an intended recipient, please notify the author and destroy this email. Any unauthorized copying, disclosure, retention or distribution of the material in this email is strictly forbidden.
+11111112-2222229Request>298>DM>*Inquiry Reference Id: 550104033

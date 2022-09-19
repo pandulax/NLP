@@ -1,0 +1,14 @@
+11111102-2222207Request>11>BW>Information Classification:
+11111102-2222207Request>16>BM>ll
+11111102-2222207Request>21>BW>Limited Access
+11111102-2222207Request>36>BS>Hello,
+11111102-2222207Request>43>BB>Please find the attached spreadsheet containing failing and settled trade.
+11111102-2222207Request>45>BB>We will return the collateral as per below breakdown.
+11111102-2222207Request>78>CC>Thanks   Regards,
+11111102-2222207Request>87>NN>P.Neeharika.
+11111102-2222207Request>95>NM>State Street Corporation | Exchange Traded Funds |
+11111102-2222207Request>97>NM>Salarpuria Sattva Knowledge City, Hyderabad   500081. INDIA
+11111102-2222207Request>108>NM>P
+11111102-2222207Request>112>NP>+91 406 709 1960 |
+11111102-2222207Request>116>NE>PNeeharika@statestreet.com
+11111102-2222207Request>134>NM>|

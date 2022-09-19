@@ -1,0 +1,23 @@
+11111127-2222246Request>3>BS>Dear Chathurika Nivanthi,
+11111127-2222246Request>15>BB>We are pleased to inform you that a Service request
+11111127-2222246Request>17>BM>REQ0538211
+11111127-2222246Request>19>BB>has been closed the details of which are given below.
+11111127-2222246Request>32>BM>Catalog Category:
+11111127-2222246Request>36>BM>Software
+11111127-2222246Request>44>BM>Catalog Item:
+11111127-2222246Request>48>BM>Install a Software
+11111127-2222246Request>56>BM>Number:
+11111127-2222246Request>60>BM>REQ0538211
+11111127-2222246Request>68>BM>Short Description:
+11111127-2222246Request>72>BB>Request for a specific software to be installed
+11111127-2222246Request>81>BM>Additional Comments:
+11111127-2222246Request>115>BM>Business Justification:
+11111127-2222246Request>119>BB>Please install office package to complete day today project tasks
+11111127-2222246Request>130>BM>Opened:
+11111127-2222246Request>134>BM>03-Jan-2020 13:14:59 IST
+11111127-2222246Request>142>BM>Close notes:
+11111127-2222246Request>146>BB>There is no approval received from your reporting manager after 3 consecutive reminders. Hence, this request has been closed from our end.
+11111127-2222246Request>148>BB>Kindly raise a new ticket and get approval in service now portal.
+11111127-2222246Request>159>CC>Regards,
+11111127-2222246Request>165>NM>Anytime ServiceDesk
+11111127-2222246Request>176>DD>The email can contain computer viruses that may infect your computer. The recipient of this email should scan this email and all of its attachments, if there are any. The organization will accept no liability for any damage caused by any virus transmitted via this email. Emails can be intercepted, lost, destroyed, corrupted, contain viruses, or arrive late or incomplete. This is why email correspondence cannot be guaranteed to be secured or error free. This is why the sender does not accept liability for any errors or omissions in the contents of this message, which arise as a result of the email transmission.

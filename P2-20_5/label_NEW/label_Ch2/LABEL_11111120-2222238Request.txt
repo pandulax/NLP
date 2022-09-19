@@ -1,0 +1,5 @@
+11111120-2222238Request>2>BS>Hello
+11111120-2222238Request>4>BM>??
+11111120-2222238Request>15>BB>This is emoji greeting type email with different disclaimer.
+11111120-2222238Request>25>CC>Thank you,
+11111120-2222238Request>35>DM>You have received this mail because you have subscribed for a newsletter

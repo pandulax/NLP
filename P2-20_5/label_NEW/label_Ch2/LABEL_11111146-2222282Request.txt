@@ -1,0 +1,6 @@
+11111146-2222282Request>2>BS>Hi,
+11111146-2222282Request>12>BB>Please this is body.
+11111146-2222282Request>22>CC>Thanks,
+11111146-2222282Request>27>NM>ABC
+11111146-2222282Request>37>DD>This message is sent to you because your email address is on our subscribers list. If you are not interested in receiving more emails like this one, just hit Unsubscribe.
+11111146-2222282Request>47>DD>This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed.
