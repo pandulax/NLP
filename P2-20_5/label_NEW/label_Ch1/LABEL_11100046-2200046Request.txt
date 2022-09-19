@@ -1,0 +1,11 @@
+11100046-2200046Request>9>BS>Dear All,
+11100046-2200046Request>27>BB>We are pleased to inform you, that your requested item
+11100046-2200046Request>29>BM>RITM0544560
+11100046-2200046Request>31>BB>has been commented, the details of which are given below.
+11100046-2200046Request>50>BM>Summary:
+11100046-2200046Request>54>BB>Request for a specific software to be installed
+11100046-2200046Request>64>BM>Additional comments:
+11100046-2200046Request>68>BB>license available, kindly share us the reporting manager and segment head approval
+11100046-2200046Request>86>CC>Thank you,
+11100046-2200046Request>95>NM>Anytime ServiceDesk
+11100046-2200046Request>110>NM>Ref:MSG20249026

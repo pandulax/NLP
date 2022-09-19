@@ -1,0 +1,14 @@
+11100040-2200040Request>27>BS>Dear Chathurika Nivanthi,
+11100040-2200040Request>32>BB>Your Virtusa domain password expires in 4 days.
+11100040-2200040Request>37>BB>Press Ctrl + Alt + Delete keys simultaneously from your windows workstation when you are connected to the Virtusa Network through LAN or VPN to change your password now.
+11100040-2200040Request>42>BB>Your new password has to be different from your last five passwords and should contain at least
+11100040-2200040Request>47>BM>- eight characters in length
+11100040-2200040Request>51>BM>- one uppercase character
+11100040-2200040Request>55>BM>- one lowercase character
+11100040-2200040Request>59>BM>- one number
+11100040-2200040Request>63>BM>- one special character (such as ^,*, !, $, #)
+11100040-2200040Request>68>BB>Use the Virtusa login portal (login.virtusa.com) to conveniently and securely reset your password even if your password expires. Note that this service requires a quick registration on the portal.
+11100040-2200040Request>73>BB>Please contact your IT Help Desk for clarifications.
+11100040-2200040Request>78>CC>Regards,
+11100040-2200040Request>82>NM>Team IT
+11100040-2200040Request>93>DM>This is an auto generated email. Please do not reply to this email. Contact your local IT Help Desk for any queries

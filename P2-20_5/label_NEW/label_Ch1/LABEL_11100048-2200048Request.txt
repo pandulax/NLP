@@ -1,0 +1,23 @@
+11100048-2200048Request>8>BS>Dear Chathurika Nivanthi,
+11100048-2200048Request>20>BB>We are pleased to inform you that a Service request
+11100048-2200048Request>22>BM>REQ0518448
+11100048-2200048Request>24>BB>has been closed the details of which are given below.
+11100048-2200048Request>37>BM>Catalog Category:
+11100048-2200048Request>41>BM>Hardware and Devices
+11100048-2200048Request>49>BM>Catalog Item:
+11100048-2200048Request>53>BM>Desktop Computer
+11100048-2200048Request>61>BM>Number:
+11100048-2200048Request>65>BM>REQ0518448
+11100048-2200048Request>73>BM>Short Description:
+11100048-2200048Request>77>BM>Ask for a desktop computer
+11100048-2200048Request>86>BM>Additional Comments:
+11100048-2200048Request>90>BB>Requesting for a Desktop computer since deallocation. Please reserve the location - VM/02/WS/291
+11100048-2200048Request>120>BM>Business Justification:
+11100048-2200048Request>124>BB>Requesting for a Desktop computer since deallocation. Please reserve the location - VM/02/WS/291
+11100048-2200048Request>135>BM>Opened:
+11100048-2200048Request>139>BM>? 16:17:08 IST
+11100048-2200048Request>147>BM>Close notes:
+11100048-2200048Request>151>BM>done machine movement completed
+11100048-2200048Request>168>CC>Thank you,
+11100048-2200048Request>175>NM>Anytime ServiceDesk
+11100048-2200048Request>189>NM>Ref:MSG19547599

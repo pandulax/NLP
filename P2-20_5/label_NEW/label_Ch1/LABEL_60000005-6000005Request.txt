@@ -1,0 +1,14 @@
+60000005-6000005Request>7>BB>Please confirm the trade below, we are out in the FED.
+60000005-6000005Request>24>CC>Kind regards,
+60000005-6000005Request>69>NN>Erick Saiz
+60000005-6000005Request>80>ND>Operations Associate
+60000005-6000005Request>92>NE>esaiz@miurausa.com
+60000005-6000005Request>108>NM>1395 Brickell Ave, Suite #1560
+60000005-6000005Request>115>NM>Miami, FL 33131
+60000005-6000005Request>122>NP>Phone: 305-529-4700 Fax: 305-379-3025
+60000005-6000005Request>140>NM>Legal   Privacy Policy
+60000005-6000005Request>144>NM>|
+60000005-6000005Request>148>NM>Business Continuity
+60000005-6000005Request>155>NM>|
+60000005-6000005Request>165>DM>This is an automated email.
+60000005-6000005Request>176>DD>The information contained in this communication is confidential and may contain information that is privileged or exempt from disclosure under applicable law. If you are not a named addressee please notify the sender immediately and delete this email from your system. If you have received this.

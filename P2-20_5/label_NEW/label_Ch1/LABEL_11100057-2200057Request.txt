@@ -1,0 +1,29 @@
+11100057-2200057Request>3>BM>- eight characters in length
+11100057-2200057Request>7>BM>- one uppercase character
+11100057-2200057Request>11>BM>- one lowercase character
+11100057-2200057Request>15>BM>- one number
+11100057-2200057Request>19>BM>- one special character (such as ^,*, !, $, #)      - eight characters in length
+11100057-2200057Request>23>BM>- one uppercase character
+11100057-2200057Request>27>BM>- one lowercase character
+11100057-2200057Request>31>BM>- one number
+11100057-2200057Request>35>BM>- one special character (such as ^,*, !, $, #)
+11100057-2200057Request>42>BM>- eight characters in length
+11100057-2200057Request>46>BM>- one uppercase character
+11100057-2200057Request>50>BM>- one lowercase character
+11100057-2200057Request>54>BM>- one number
+11100057-2200057Request>58>BM>- one special character (such as ^,*, !, $, #)
+11100057-2200057Request>65>BM>- eight characters in length
+11100057-2200057Request>69>BM>- one uppercase character
+11100057-2200057Request>73>BM>- one lowercase character
+11100057-2200057Request>77>BM>- one number
+11100057-2200057Request>81>BM>- one special character (such as ^,*, !, $, #)
+11100057-2200057Request>88>BM>- eight characters in length
+11100057-2200057Request>92>BM>- one uppercase character
+11100057-2200057Request>96>BM>- one lowercase character
+11100057-2200057Request>100>BM>- one number
+11100057-2200057Request>104>BM>- one special character (such as ^,*, !, $, #)
+11100057-2200057Request>111>BM>- eight characters in length
+11100057-2200057Request>115>BM>- one uppercase character
+11100057-2200057Request>119>BM>- one lowercase character
+11100057-2200057Request>123>BM>- one number
+11100057-2200057Request>127>BM>- one special character (such as ^,*, !, $, #)

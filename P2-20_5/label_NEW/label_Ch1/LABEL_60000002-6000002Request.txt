@@ -1,0 +1,14 @@
+60000002-6000002Request>7>BB>Please confirm the trade below, we are out in the FED.
+60000002-6000002Request>24>CC>Kind regards,
+60000002-6000002Request>69>NN>Erick Saiz
+60000002-6000002Request>80>ND>Operations Associate
+60000002-6000002Request>92>NE>esaiz@miurausa.com
+60000002-6000002Request>108>NM>1395 Brickell Ave, Suite #1560
+60000002-6000002Request>115>NM>Miami, FL 33131
+60000002-6000002Request>122>NP>Phone: 305-529-4700 Fax: 305-379-3025
+60000002-6000002Request>140>NM>Legal   Privacy Policy
+60000002-6000002Request>144>NM>|
+60000002-6000002Request>148>NM>Business Continuity
+60000002-6000002Request>155>NM>|
+60000002-6000002Request>159>DM>Bank of Singapore Limited.
+60000002-6000002Request>176>DD>The information in this Internet email is confidential and may be legally privileged. It is intended solely for addressee. Access to this internet email by anyone else is unauthorized. If you are not the intended receipt, any disclosure, copying, distribution or any action taken or omitted to be taken in reliance on it, is prohibited and may be unlawful.

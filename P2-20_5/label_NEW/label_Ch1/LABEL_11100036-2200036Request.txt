@@ -1,0 +1,29 @@
+11100036-2200036Request>2>BS>Hi Team,
+11100036-2200036Request>12>BB>Our custodian is reporting that you are short to deliver shares for the below trade. Can you review and confirm?
+11100036-2200036Request>22>CC>Thank you,
+11100036-2200036Request>27>NN>Ashley
+11100036-2200036Request>46>NM>Alert Code
+11100036-2200036Request>55>NM>Security ID
+11100036-2200036Request>64>NM>Security Name
+11100036-2200036Request>73>NM>B/S
+11100036-2200036Request>82>NM>Shares
+11100036-2200036Request>91>NM>Currency
+11100036-2200036Request>100>NM>Net Amount
+11100036-2200036Request>109>NM>Trade Date
+11100036-2200036Request>118>NM>Settle Date
+11100036-2200036Request>127>NM>Broker
+11100036-2200036Request>136>NM>Broker Name
+11100036-2200036Request>145>NM>AS400 Trade ID
+11100036-2200036Request>154>NM>Bank
+11100036-2200036Request>163>NM>Global Account Number
+11100036-2200036Request>172>NM>SSI Counterparty PSET Cd
+11100036-2200036Request>181>NM>SSI Executing Broker BIC Id
+11100036-2200036Request>190>NM>SSI Sub Agent BIC Id
+11100036-2200036Request>199>NM>SSI Sub Agent Security Account
+11100036-2200036Request>216>NM>Fidelity Investments
+11100036-2200036Request>225>NM>One Spartan Way, TS2O
+11100036-2200036Request>234>NM>Merrimack, NH 03054
+11100036-2200036Request>244>NE>ashley.brawn@fmr.com
+11100036-2200036Request>254>NP>Tel: (603)791-1514
+11100036-2200036Request>275>DM>Disclaimer Topic
+11100036-2200036Request>283>DD>Notice: All e-mail sent to or from Fidelity Investments is subject to retention, monitoring and/or review by Fidelity personnel.Please note that Fidelity is unable to accept orders left over voicemail or email regarding any account.The information contained in this transmission and any attachments is intended for the exclusive use of the individual or entity to which it is addressed, and may contain confidential or proprietary information, be subject to attorney-client privilege, and/or be exempt from disclosure under applicable law. If you are not the intended recipient, you are hereby notified that any review, dissemination, distribution or duplication of this message or its attachments is strictly prohibited. If you have received this transmission in error, please contact the sender by reply email and destroy the original message, any attachments, and all copies.

@@ -1,0 +1,5 @@
+11100041-2200041Request>5>BS>Hi Citi Team
+11100041-2200041Request>23>BB>This is a Test Email for Performance
+11100041-2200041Request>41>CC>Thanks
+11100041-2200041Request>50>NM>MSST QA Team
+11100041-2200041Request>68>DM>Do not Reply this email
