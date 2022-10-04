@@ -1,8 +1,0 @@
-11189098-2285045Request>7>BS>Hi
-11189098-2285045Request>17>BB>Please find the Test Case design sheet of ‘OSCAR’ application in the attachment section and design progress.
-11189098-2285045Request>31>BM>Task Name
-11189098-2285045Request>40>BM>Progress Percentage
-11189098-2285045Request>50>BM>OSCAR test case design - Functional
-11189098-2285045Request>57>BM>92%
-11189098-2285045Request>70>CC>Thanks,
-11189098-2285045Request>75>NN>Dinusha

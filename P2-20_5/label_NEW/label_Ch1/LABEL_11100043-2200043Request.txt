@@ -1,5 +1,0 @@
-11100043-2200043Request>12>BS>Hi Citi Team
-11100043-2200043Request>38>BB>This is a Test Email for Performance
-11100043-2200043Request>64>CC>Thanks
-11100043-2200043Request>77>NM>MSST QA Team
-11100043-2200043Request>103>DM>Do not Reply this email

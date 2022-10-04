@@ -1,8 +1,0 @@
-11111115-2222232Request>2>BS>Hi Team,
-11111115-2222232Request>12>BB>Please find the attached Request Response Json sample sheet herewith and we are sharing this to make sure that you set the right expectations to the client on the phase 1 delivery on January.
-11111115-2222232Request>22>BM>Note :
-11111115-2222232Request>27>BB>Column C contains the Request JSON and the Red Bold texts are the ones which need to be removed .
-11111115-2222232Request>32>BB>Column D contains the API Response JSON which is generated after removing the Red bold text in the Request.
-11111115-2222232Request>37>BB>Sample JSON generated Emails also attached herewith.
-11111115-2222232Request>47>CC>Thanks   Best Regards,
-11111115-2222232Request>52>NN>Heshan Kankanamge
