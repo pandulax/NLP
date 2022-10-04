@@ -1,9 +1,0 @@
-12345717-1234606Request>12>BS>Hi Team,
-12345717-1234606Request>22>BB>Test to email signatures shared by client.
-12345717-1234606Request>46>NN>Badri Prasad Mohapatra
-12345717-1234606Request>51>ND>Assistant Vice President
-12345717-1234606Request>64>NP>phone:  111234567890
-12345717-1234606Request>66>NP>mobile:  1 112 345 6789
-12345717-1234606Request>129>NM>16 Freedom St, Deer Hill
-12345717-1234606Request>131>NM>58-500, Poland
-12345717-1234606Request>145>NM>www.codetwo.com

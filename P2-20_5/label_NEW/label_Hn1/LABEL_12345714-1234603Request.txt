@@ -1,8 +1,0 @@
-12345714-1234603Request>12>BS>Hi Team,
-12345714-1234603Request>22>BB>Test to email signatures shared by client.
-12345714-1234603Request>32>CC>Regards,
-12345714-1234603Request>42>NN>Badri Prasad Mohapatra
-12345714-1234603Request>57>ND>Sr. Analyst
-12345714-1234603Request>129>NE>email: john.doe@codetwo.com
-12345714-1234603Request>131>NP>mobile:  111234567890 | phone:  111234567890
-12345714-1234603Request>133>NM>CodeTwo , 16 Freedom St, Deer Hill 58-500, Poland
